@@ -9,9 +9,11 @@ export {
    IMIMetadataInfo,
    IMIMetadataMap,
    IMIResponse,
-   IMIService
+   IMIService,
+   Bookmark
 } from './base';
 export {
    MIRecord,
-   MIServiceCore
+   MIServiceCore,
+   MIUtil
 } from './runtime';
